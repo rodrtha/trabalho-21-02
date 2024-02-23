@@ -62,6 +62,7 @@ header ul li a:hover {
     padding: 10px;
 }
 
+
 .foto_local{
     padding: 30px;
     display: flex;
@@ -69,4 +70,11 @@ header ul li a:hover {
     margin: 0 auto;
 }
 
+.faixa{
+    border-bottom: 50px;
+    border-radius:20px;
+    border-color: darkmagenta;
+    padding: 10px;
+    display: flex;
+}
 
