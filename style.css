@@ -61,3 +61,10 @@ header ul li a:hover {
     max-width: 100%; /*Nn deixa as imagens serem maiores que o container */
 }
 
+.foto_local{
+    padding: 30px;
+    display: flex;
+    max-width: 93%;
+    margin: 0 auto;
+}
+
